@@ -4,8 +4,7 @@ this app basically forward people to website showing how bears are getting extin
 Also this app allows you to Register yourself to Bear saving organisation and has a database
 Following are the screeshots Representing the walkthrough
 
-![](/https://github.com/VivekGupta1999/Save-Bears/blob/master/Screeenshots/Screen%20Shot%202020-01-20%20at%201.58.53%20AM.png){:height="50%" width="50%"}
-
+![](/https://github.com/VivekGupta1999/Save-Bears/blob/master/Screeenshots/Screen%20Shot%202020-01-20%20at%201.58.53%20AM.png)
 This is the Home Page of the App
 
 
