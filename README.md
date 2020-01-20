@@ -5,7 +5,7 @@ Also this app allows you to Register yourself to Bear saving organisation and ha
 Following are the screeshots Representing the walkthrough
                                             
                                             This is the Home Page of the App
-![](/https://github.com/VivekGupta1999/Save-Bears/blob/master/Screeenshots/Screen%20Shot%202020-01-20%20at%201.58.53%20AM.png)
+![](https://github.com/VivekGupta1999/Save-Bears/blob/master/Screeenshots/Screen%20Shot%202020-01-20%20at%201.58.53%20AM.png)
 
                                               The Website of Save bear App
 ![](https://github.com/VivekGupta1999/Save-Bears/blob/master/Screeenshots/Screen%20Shot%202020-01-20%20at%201.59.03%20AM.png)
